@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-video/static/css/main.a311e6a9.chunk.css",
-    "main.js": "/react-video/static/js/main.5222dfad.chunk.js",
-    "main.js.map": "/react-video/static/js/main.5222dfad.chunk.js.map",
+    "main.css": "/react-video/static/css/main.98f92f0e.chunk.css",
+    "main.js": "/react-video/static/js/main.6eca2027.chunk.js",
+    "main.js.map": "/react-video/static/js/main.6eca2027.chunk.js.map",
     "runtime-main.js": "/react-video/static/js/runtime-main.373d03f9.js",
     "runtime-main.js.map": "/react-video/static/js/runtime-main.373d03f9.js.map",
     "static/js/2.43314c29.chunk.js": "/react-video/static/js/2.43314c29.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.b0039082.chunk.js": "/react-video/static/js/3.b0039082.chunk.js",
     "static/js/3.b0039082.chunk.js.map": "/react-video/static/js/3.b0039082.chunk.js.map",
     "index.html": "/react-video/index.html",
-    "static/css/main.a311e6a9.chunk.css.map": "/react-video/static/css/main.a311e6a9.chunk.css.map",
+    "static/css/main.98f92f0e.chunk.css.map": "/react-video/static/css/main.98f92f0e.chunk.css.map",
     "static/js/2.43314c29.chunk.js.LICENSE.txt": "/react-video/static/js/2.43314c29.chunk.js.LICENSE.txt",
     "static/media/logo-platzi-video-BW2.435b1bef.png": "/react-video/static/media/logo-platzi-video-BW2.435b1bef.png"
   },
   "entrypoints": [
     "static/js/runtime-main.373d03f9.js",
     "static/js/2.43314c29.chunk.js",
-    "static/css/main.a311e6a9.chunk.css",
-    "static/js/main.5222dfad.chunk.js"
+    "static/css/main.98f92f0e.chunk.css",
+    "static/js/main.6eca2027.chunk.js"
   ]
 }
